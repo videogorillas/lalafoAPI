@@ -5,7 +5,7 @@ to get categories prediction for your image POST an image file as multipart/form
 example for bash:
 
 ```
-curl  -F "file=@./test.jpg"   http://podol.videogorillas.com:4244/upload`
+curl  -F "file=@./test.jpg"   http://podol.videogorillas.com:4244/upload
 ```
 
 it will be faster if image is resized to 224x224
