@@ -1,0 +1,544 @@
+1474,1463,Prams & Strollers,,Детские коляски,Коляски для детей,false,,,true,false,297,298,2
+1475,1463,Other children's items,,Товары для детей,Другие детские товары,false,,,true,false,299,300,2
+1465,1464,Bundle of Clothes,,Детская одежда в наборах,Комплекты детской одежды,false,,,true,false,270,271,3
+1466,1464,Dresses,,Платья для новорожденных,Платья для детей,false,,,true,false,272,273,3
+1470,1464,Tops & Shirts,,Топы и майки для детей,Футболки и рубашки для детей,false,,,true,false,280,281,3
+1471,1464,Other,,Другая детская одежда и обувь,Другая одежда и обувь для детей,false,,,true,false,282,283,3
+1464,1463,Kids' clothes & shoes,,Детская одежда и обувь,Обувь и одежду для детей,false,,,true,false,269,284,2
+711,1473,Slides,,Slides for kids,Slides for children,false,,,true,false,294,295,3
+1476,1463,Car Seats & Baby Carriers,,Кресла для авто,Детские авто кресла,false,,,true,false,301,302,2
+1467,1464,Jeans & Trousers,,Джинсы и брюки для малышей,Джинсы и брюки для детей,false,,,true,false,274,275,3
+1468,1464,Kid's outerwear,,Верхняя одежда для детей,"Детские куртки, пальто",false,,,true,false,276,277,3
+1469,1464,Shoes & Boots,,Обувь для новорожденных,"Ботинки, туфли для детей",false,,,true,false,278,279,3
+707,1472,Cribs & Bassinets,,Baby cribs and bassinets,Children's cribs and bassinets,false,,,true,false,288,289,3
+708,1472,Nursery Furniture,,Nursery furniture,Baby furniture,false,,,true,false,290,291,3
+1472,1463,Children's Furniture,,Детская мебель,Мебель для детской,false,,,true,false,285,292,2
+1349,1345,"Modems, Broadband & Networking",,"3g и 4g модемы, коммутаторы","Сетевые карты, wi-fi роутеры, маршрутизаторы, свичи",false,,,true,false,57,58,4
+1350,1345,Monitors & Projectors,,Тонкие и плоские мониторы для компьютера,"Компьютерные экраны, плоские мониторы",false,,,true,false,59,60,4
+1351,1345,Printers & Scanners,,Сканеры,Лазерные и струйные принтеры,false,,,true,false,61,62,4
+1352,1345,Server,,Мощный сервер,Недорогой сервер,false,,,true,false,63,64,4
+1353,1345,"Speakers, Headsets & Microphones",,Гарнитуры для компьютера,Компьютерные колонки и микрофоны,false,,,true,false,65,66,4
+1354,1345,"Tablet, eBook & eReader Accessories",,Комплектующие для планшетов,Товары для планшетов,false,,,true,false,67,68,4
+1355,1345,Video Cards & Sound Cards,,Звуковые карты,Видеокарты для компьютеров и ноутбуков,false,,,true,false,69,70,4
+1356,1345,"Memory, Motherboards & Processors",,"Оперативная память, материнка",Память компьютера,false,,,true,false,71,72,4
+1376,1360,Asus,,,,false,,,true,false,109,110,4
+1377,1360,"Bird
+",,,,false,,,true,false,111,112,4
+1458,1325,Refrigerators,,Холодильное оборудование,Холодильники с морозилкой,false,,,true,false,240,241,3
+1454,1325,Dishwasher,,Посудомоечные машины,Машины для мойки посуды,false,,,true,false,242,243,3
+718,1425,Chests & Trunks,,Комоды и сундуки,Комоды и сундуки,false,,,true,false,318,319,3
+1440,1433,Sofas,,Диваны,Кушетки и тахты,false,,,true,false,336,337,3
+1435,1433,Curtains & Blinds,,"Шторы, жалюзи и занавеси","Роллеты, занавески",false,,,true,false,326,327,3
+1445,1443,Greenhouses,,Теплицы и навесы,Теплицы и навесы,false,,,true,false,348,349,3
+1446,1443,Hammocks & Accessories,,Гамаки и аксессуары ,Гамаки и аксессуары ,false,,,true,false,350,351,3
+1346,1345,Hard Drives & External Drives,,Внешние жесткие диски,SSD и винчестеры,false,,,true,false,51,52,4
+1347,1345,"Keyboards, Webcams & Mice",,"Клавы, мышки, веб камеры",Беспроводные и проводные,false,,,true,false,53,54,4
+1348,1345,Laptop Accessories,,Аксессуары для нетбуков,"Сумки, чехлы для ноутбуков и нетбуков",false,,,true,false,55,56,4
+1448,1443,Lawn mowers,,,,false,,,true,false,354,355,3
+1449,1443,Fireplaces and heaters,,,,false,,,true,false,356,357,3
+1451,1443,Umbrellas & Sunshades,,,,false,,,true,false,360,361,3
+1443,1423,Garden & Patio Furniture,,Для сада и дачи,Для сада и огорода,false,,,true,false,345,366,2
+1378,1360,"China Mobile
+",,,,false,,,true,false,113,114,4
+1379,1360,Dell,,,,false,,,true,false,115,116,4
+1380,1360,"Ericsson
+",,,,false,,,true,false,117,118,4
+1381,1360,"Google Nexus
+",,,,false,,,true,false,119,120,4
+1382,1360,HP,,,,false,,,true,false,121,122,4
+1383,1360,"Huawei
+",,,,false,,,true,false,123,124,4
+1384,1360,"I-Mate
+",,,,false,,,true,false,125,126,4
+1385,1360,"Lenovo
+",,,,false,,,true,false,127,128,4
+1386,1360,"Mega Gate
+",,,,false,,,true,false,129,130,4
+1387,1360,Nec,,,,false,,,true,false,131,132,4
+1388,1360,"Palm
+",,,,false,,,true,false,133,134,4
+1389,1360,"Philips
+",,,,false,,,true,false,135,136,4
+1390,1360,"Q Mobile
+",,,,false,,,true,false,137,138,4
+1391,1360,"Sagem
+",,,,false,,,true,false,139,140,4
+1392,1360,"Sprint
+",,,,false,,,true,false,141,142,4
+1393,1360,"Tecno
+",,,,false,,,true,false,143,144,4
+1394,1360,ZTE,,,,false,,,true,false,145,146,4
+1395,1360,Other Mobile Phones,,,,false,,,true,false,147,148,4
+1432,1425,Other Bedroom Furniture & Accs,,Другая мебель и аксессуары для спальни,Другая мебель и аксессуары для спальни,false,,,true,false,320,321,3
+1433,1423,"Dining, Living Room Furniture",,Мебель для гостиной,Мебель для столовой,false,,,true,false,323,344,2
+738,1443,Outdoor Settings & Furniture,,,,false,,,true,false,362,363,3
+2638,1443,Other Garden & Patio Furniture,,,,true,,,true,false,364,365,3
+1462,1423,Other items for home,,,,true,,,true,false,383,384,2
+1423,1,Home & Garden,"Б/у мебель, оригинальные предметы декора, садовые столы и стулья, бытовая техника, кухонные аксессуары в Таджикистане",Дом и сад,Дом и сад,true,,,true,false,304,385,1
+1457,1325,Stoves,,Газовые и электрические плитки и духовки,Варочные поверхности и духовые шкафы,false,,,true,false,238,239,3
+1358,1357,SIM-cards,,,,false,,,true,false,184,185,3
+2153,2143,"Advertising, printing",,,,true,1,,true,false,393,394,2
+2085,2075,Kitchen staff,,,,false,,3,true,false,832,833,3
+2055,2054,For sale,,Коммерческие здания,Офисная недвижимость на продажу,false,,,true,false,424,441,3
+2069,2064,Hotels,,Отели и гостиницы,"Арендовать, снять отель или гостиницу",false,,,true,false,451,452,4
+2070,2064,Buildings,,Аренда коммерческой недвижимости,Здания в аренду,false,,,true,false,453,454,4
+2071,2064,Factories & Mills,,Аренда заводов,Заводы в аренду,false,,,true,false,455,456,4
+2072,2064,Other Commercial Property,,Другие коммерческие здания,Другая коммерческая недвижимость,false,,,true,false,457,458,4
+2063,2055,Other Commercial Property,,,,false,,,true,false,439,440,4
+2057,2055,Shops,,Магазины,Купить магазин,false,,,true,false,427,428,4
+2058,2055,"Restaurants, cafes",,Рестораны на продажу,"Купить ресторан, кафе, бар",false,,,true,false,429,430,4
+2062,2055,Factories & Mills,,Продаю завод,Купить завод,false,,,true,false,437,438,4
+1501,1,Vehicles,"Автомобили с пробегом, японские легковые автомобили, мотоциклы, спецтехника, грузовые автомобили, запчасти, аксессуары в Таджикистане",Транспорта,Транспорта,false,,,true,false,532,811,1
+1528,1502,Iran Khodro,,,,false,,,true,false,570,571,3
+1570,1502,Honda,,б/у Honda,Honda б/у с пробегом,false,,,true,false,654,655,3
+4128,1502,Luxgen,Luxgen,,,true,,,true,false,774,775,3
+1575,1502,Jeep,,б/у Jeep,Jeep б/у с пробегом,false,,,true,false,664,665,3
+4133,1502,Tesla,Tesla,,,true,,,true,false,776,777,3
+1621,1616,Tyres and wheels,,"Шины, резина и диски для авто",Колеса для авто и диски для машин,false,,,true,false,794,795,3
+1591,1502,Opel,,б/у Opel,Opel б/у с пробегом,false,,,true,false,696,697,3
+1608,1502,Toyota,,б/у Toyota,Toyota б/у с пробегом,false,,,true,false,730,731,3
+1610,1502,Volkswagen,,б/у Volkswagen,Volkswagen б/у с пробегом,false,,,true,false,734,735,3
+1516,1502,LuAZ,,,,false,,,true,false,546,547,3
+1531,1502,Hafei,,,,false,,,true,false,576,577,3
+1536,1502,Doninvest,,,,false,,,true,false,586,587,3
+1504,1502,Tianye,,,,false,,,true,false,748,749,3
+1554,1502,Aston Martin,,б/у Aston Martin,Aston Martin б/у с пробегом,false,,,true,false,622,623,3
+1557,1502,BMW,,б/у BMW,BMW б/у с пробегом,false,,,true,false,628,629,3
+1576,1502,Kia,,б/у Kia,Kia б/у с пробегом,false,,,true,false,666,667,3
+1588,1502,Mini,,б/у Mini,Mini б/у с пробегом,false,,,true,false,690,691,3
+1597,1502,Renault,,б/у Renault,Renault б/у с пробегом,false,,,true,false,708,709,3
+1601,1502,Seat,,б/у Seat,Seat б/у с пробегом,false,,,true,false,716,717,3
+1611,1502,Volvo,,б/у Volvo,Volvo б/у с пробегом,false,,,true,false,736,737,3
+1507,1502,VIS,,,,false,,,true,false,754,755,3
+1509,1502,Ravon ,,,,false,,,true,false,534,535,3
+1550,1502,Saturn,,,,false,,,true,false,614,615,3
+1560,1502,Chrysler,,б/у Chrysler,Chrysler б/у с пробегом,false,,,true,false,634,635,3
+1562,1502,Dacia,,б/у Dacia,Dacia б/у с пробегом,false,,,true,false,638,639,3
+1567,1502,Ferrari,,б/у Ferrari,Ferrari б/у с пробегом,false,,,true,false,648,649,3
+1596,1502,Reliant,,б/у Reliant,Reliant б/у с пробегом,false,,,true,false,706,707,3
+1609,1502,Vauxhall,,б/у Vauxhall,Vauxhall б/у с пробегом,false,,,true,false,732,733,3
+1543,1502,BYD,,,,false,,,true,false,600,601,3
+1552,1502,Alpina,,,,false,,,true,false,618,619,3
+1579,1502,Lancia,,б/у Lancia,Lancia б/у с пробегом,false,,,true,false,672,673,3
+3297,1502,ЗИЛ,,,,false,,,true,false,778,779,3
+2028,1501,Other vehicles,,Другие машины,Другие авто,true,,,true,false,809,810,2
+1540,1502,ZAZ,,,,false,,,true,false,594,595,3
+4103,1502,Sirena Motors,,,,true,,,true,false,772,773,3
+2128,2109,Housekeeping & Cleaning,,"Уборка помещений, чистка, химчистка, уборка дома и офиса",Уборщицей,true,1,3,true,false,924,925,3
+2130,2109,Media &  Design,,"В медиа, агентствах","Дизайнером и журналистом, редактором",true,1,3,true,false,928,929,3
+2074,1,Job,"Новые вакансии от работодателей в вашем городе. Отправьте резюме, чтобы найти работу в Таджикистане",Вакансии и трудоустройство,Ищу работу,false,1,3,true,false,812,959,1
+2134,2109,Fitness and sports,,"Тренера по фитнесу, персонального тренера","Тренера по фитнесу, персонального тренера",true,1,3,true,false,936,937,3
+2113,2109,Banking & Insurance,,"Банковского работника, служащего, страхового агента",В банках и страховых компаниях,true,1,3,true,false,894,895,3
+1489,1484,Fish,,Рыба,Аквариумные рыбки,false,,,true,false,967,968,2
+2089,2075,General Jobs,,,,false,,3,true,false,840,841,3
+2087,2075,Work abroad,,,,false,,3,true,false,836,837,3
+2100,2075,Volunteer & Charity Work,,,,false,,3,true,false,862,863,3
+2110,2109,Work at home,,,,true,,3,true,false,888,889,3
+2112,2109,Automotive & Engineering,,Инженера и архитектора,Инженера и архитектора,true,1,3,true,false,892,893,3
+2133,2109,Security,,"Охранника, специалиста по безопасности, телохранителя","Охранником, специалистом по безопасности, телохранителем",true,1,3,true,false,934,935,3
+2086,2075,Sales and Retail,,,,false,,3,true,false,834,835,3
+2096,2075,Fitness and sport,,,,false,,3,true,false,854,855,3
+2126,2109,"Medicine, pharmacy",,"Медсестры, хирурги, терапевты","Врачом, фармацевтом",true,1,3,true,false,920,921,3
+2127,2109,Home staff,,"Уход за детьми, за пожилыми, уборка дома","Домработницей, няней",true,1,3,true,false,922,923,3
+2119,2109,Administrative work,,"Администратора, секретаря, офис-менеджера, помощника","Администратора, секретаря, офис-менеджера, помощника",true,1,3,true,false,906,907,3
+1499,1491,Other,,,,false,,,true,false,986,987,3
+1484,1,Pets and animals,"Купить котенка, щенки на продажу, аквариумные рыбки, попугаи и другие домашние животные в Таджикистане",Животные,Домашние животные и дикие животные,false,,,true,false,960,993,1
+1495,1491,Hamsters,,Хомяки,Хомячки,false,,,true,false,978,979,3
+1485,1484,Pets' Equipment & Accessories,,"Кроватки, одежда для животных","Корм для животных, поводки",false,,,true,false,961,962,2
+1490,1484,Other pets and animals,,Разные животные,Другие домашние животные,false,,,true,false,989,990,2
+1538,1502,Derways,,,,false,,,true,false,590,591,3
+1506,1502,ZX,,,,false,,,true,false,752,753,3
+2160,1,Friendship & dating,Знакомства в Таджикистане. Объявления о знакомствах от парней и девушек в Душанбе и других городах.,,,false,,,false,false,996,997,1
+2159,1,Freebies,"  Вещи даром, бесплатные б/у вещи, одежда, животные, мебель, запчасти в Таджикистане",Отдам даром,Бесплатные услуги,true,,,false,false,998,999,1
+1546,1502,BAW,,,,false,,,true,false,606,607,3
+3056,1,8,,Топы и майки для детей,Футболки и рубашки для детей,false,,,true,false,1008,1009,1
+3051,1,10,,Платья для новорожденных,Платья для детей,false,,,true,false,1012,1013,1
+1561,1502,Citroen,,б/у Citroen,Citroen б/у с пробегом,false,,,true,false,636,637,3
+119,1502,Vauxhall,,,,false,,,true,false,762,763,3
+1511,1502,Other vehicles,,,,false,,,true,false,782,783,3
+1564,1502,Daihatsu,,б/у Daihatsu,Daihatsu б/у с пробегом,false,,,true,false,642,643,3
+1599,1502,Rover,,б/у Rover,Rover б/у с пробегом,false,,,true,false,712,713,3
+1624,1616,Car Security,,"gps, gsm сигнализации для машин","Автосигнализации, иммобилайзеры для авто, ",false,,,true,false,800,801,3
+1502,1501,Used cars,,Avtobazar - продажа поддержанных бу машин с пробегом,бу авто на авторынке с пробегом,false,,,true,false,533,784,2
+1558,1502,Cadillac,,б/у Cadillac,Cadillac б/у с пробегом,false,,,true,false,630,631,3
+1616,1501,Car Parts & Accessories,,"Продажа с разборки запчастей для транспорта, иномарок",запчасти для авто: заказ по каталогу,false,,,true,false,785,804,2
+1614,1502,Infiniti,,б/у Infiniti,Infiniti б/у с пробегом,false,,,true,false,742,743,3
+1622,1616,Other,,Другие авто запчасти и аксессуары,Другие авто запчасти и аксессуары,false,,,true,false,796,797,3
+1593,1502,Peugeot,,б/у Peugeot,Peugeot б/у с пробегом,false,,,true,false,700,701,3
+1625,1501,Motorcycles & Scooters,,Чопперы и мото,Мопеды и квадроциклы,false,,,true,false,805,806,2
+2033,2032,For long term,,Длительная аренда домов,Снять дом долгосрочно,false,,,true,false,499,500,4
+2034,2032,By the day,,Дневная аренда домов,Снять дом посуточно,false,,,true,false,501,502,4
+1563,1502,Daewoo,,б/у Daewoo,Daewoo б/у с пробегом,false,,,true,false,640,641,3
+1533,1502,GMC,,,,false,,,true,false,580,581,3
+1545,1502,Brilliance,,,,false,,,true,false,604,605,3
+1555,1502,Audi,,б/у Audi,Audi б/у с пробегом,false,,,true,false,624,625,3
+1585,1502,Mercedes-Benz,,б/у Mercedes-Benz,Mercedes-Benz б/у с пробегом,false,,,true,false,684,685,3
+4061,1502,Lada,,İşlənmiş Lada,Yürüş ilə Lada,true,,,true,false,768,769,3
+1582,1502,Lotus,,б/у Lotus,Lotus б/у с пробегом,false,,,true,false,678,679,3
+1586,1502,MG,,б/у MG,MG б/у с пробегом,false,,,true,false,686,687,3
+1607,1502,Tata,,б/у Tata,Tata б/у с пробегом,false,,,true,false,728,729,3
+1337,1336,Photo Cameras,,Цифровые и зеркальные фотоаппараты,Профессиональные и любительские фото апараты,false,,,true,false,34,35,3
+1338,1336,Video Camcorders,,Цифровые видео камеры,Камеры видеонаблюдения,false,,,true,false,36,37,3
+1340,1336,Photo and Video Accessories,,Аксессуары для фото аппаратов и видео камер,Аксессуары для видеокамер и фотоаппаратов,false,,,true,false,38,39,3
+1339,1336,Other Cameras,,Другие профессиональные камеры,Другие видеокамеры,false,,,true,false,40,41,3
+1336,1317,Cameras and Camcorders,,Фототехника,Видеотехника,false,,,true,false,33,42,2
+1345,1341,Parts & Accessories,,Компьютерные товары,Комплектующие для компьютеров,false,,,true,false,50,75,3
+1343,1341,Laptops and Netbooks,,Лэптопы и ноутбуки,Лаптопы,false,,,true,false,46,47,3
+2162,1345,"PDAs, Handhelds & Accessories",,,,false,,,true,false,73,74,4
+1361,1360,Apple iPhone,,,,false,,,true,false,79,80,4
+1369,1360,Samsung,,,,false,,,true,false,95,96,4
+1362,1360,"Blackberry
+",,,,false,,,true,false,81,82,4
+1363,1360,"HTC
+",,,,false,,,true,false,83,84,4
+1364,1360,LG,,,,false,,,true,false,85,86,4
+1365,1360,"Motorola
+",,,,false,,,true,false,87,88,4
+1366,1360,"Nokia
+",,,,false,,,true,false,89,90,4
+1367,1360,"O2, XDA
+",,,,false,,,true,false,91,92,4
+1368,1360,"Orange
+",,,,false,,,true,false,93,94,4
+1370,1360,"Siemens
+",,,,false,,,true,false,97,98,4
+1371,1360,"Sony Ericsson
+",,,,false,,,true,false,99,100,4
+1372,1360,"T-Mobile, MDA
+",,,,false,,,true,false,101,102,4
+1373,1360,"Vodafone
+",,,,false,,,true,false,103,104,4
+1374,1360,"Acer
+",,,,false,,,true,false,105,106,4
+1375,1360,"Alcatel
+",,,,false,,,true,false,107,108,4
+1342,1341,Desktop & Workstation PCs,,Настольные ПК,Десктопы,false,,,true,false,44,45,3
+1344,1341,Tablets & e-books,,ebook,Планшетные компьютеры,false,,,true,false,48,49,3
+1341,1317,Computers,,ПК,Персональные компьютеры,false,,,true,false,43,76,2
+3059,1360,Impression,,,,false,,,true,false,173,174,4
+1455,1,Тестовая,,Морозилки,Камеры для замораживания,false,,,true,false,1004,1005,1
+1335,1331,DVD and Blu-ray players,,DVD и Blu ray приводы,Видео проигрыватели,false,,,true,false,262,263,3
+3173,1360,Karbonn,,,,false,,,true,false,151,152,4
+3159,1360,Bravis,,,,false,,,true,false,157,158,4
+3179,1360,Qumo,,,,false,,,true,false,159,160,4
+3182,1360,Sony,,,,false,,,true,false,161,162,4
+3167,1360,Goclever,,,,false,,,true,false,163,164,4
+3161,1360,Caterpillar,,,,false,,,true,false,167,168,4
+3164,1360,Datawind,,,,false,,,true,false,169,170,4
+3178,1360,Prestigio,,,,false,,,true,false,171,172,4
+1326,1324,Climatic Equipment,,,,false,,,true,false,216,217,3
+1327,1324,Heaters and fireplaces,,,,false,,,true,false,218,219,3
+1324,1317,Home Appliances,,,,false,,,true,false,215,228,2
+3058,1325,Freezer,,Детская мебель,Мебель для детской,false,,,true,false,230,231,3
+1323,1318,Amplifiers and receivers,,Спутниковые ресиверы,Усилители звука и спутниковые ресиверы,false,,,true,false,252,253,3
+3048,1360,Fly,,,,false,,,true,false,181,182,4
+1359,1357,Mobile Phone Accessories,,Мобильные аксессуары,Пластиковые и кожаные чехлы на телефон,false,,,true,false,186,187,3
+1406,1396,"Xbox 360 & Xbox
+",,,,false,,,true,false,208,209,3
+1405,1396,"Video Game Accessories
+",,,,false,,,true,false,210,211,3
+1398,1396,"Nintendo DS & DSi
+",,,,false,,,true,false,194,195,3
+2114,2109,"Hotels, Restaurants, Food",,"В ресторанах, барах, гостиницах","Официантом, барменом, портье, поваром",true,1,3,true,false,896,897,3
+1430,1425,Single Beds,,Одно местные кровати,Одноместные кровати,false,,,true,false,306,307,3
+1459,1325,Drying,,"Сушки для белья, для посуды",Сушилки,false,,,true,false,236,237,3
+1428,1425,Linen & Bedding,,Постельное белье из разных материалов,Белье для кровати,false,,,true,false,312,313,3
+1429,1425,Mattresses,,Эргономичные матрасы,Матрацы на пружинах ,false,,,true,false,314,315,3
+1434,1433,Carpets & Flooring,,"Текстиль, материалы",Ковры на пол и на стену,false,,,true,false,324,325,3
+1461,1452,Other,,,,false,,,true,false,370,371,3
+1412,1410,Watches and Jewellery,,Часы и украшения,Украшения и часы,false,,,true,false,6,7,3
+1416,1410,Other,,Иные вещи,Другие вещи,false,,,true,false,14,15,3
+1410,1409,"Clothes, Footwear & Accessories",,"Одежда, обувь и аксессуары",Одежду и обувь,false,,,true,false,3,16,2
+1420,1417,Bath & Body,,Товары для ухода за телом,Товары для тела,false,,,true,false,22,23,3
+1421,1417,Diet & Weight Loss,,Средства для похудения,Товары для похудения,false,,,true,false,24,25,3
+1417,1409,Health & Beauty,,Красота и здоровье,Товары для здоровья,false,,,true,false,17,30,2
+1414,1410,Wedding Clothes & Accessories,,Свадебные товары,Платья для свадеб,false,,,true,false,10,11,3
+1408,1396,Other,,,,false,,,true,false,212,213,3
+1415,1410,Women's Clothing and Accessories,,,,false,,,true,false,12,13,3
+1419,1417,Perfume,,,,false,,,true,false,20,21,3
+1422,1417,Vitamins & Supplements,,Витамины и БАД,Добавки,false,,,true,false,26,27,3
+1331,1317,TV and Video,,Видео приставки,ТВ и видео,false,,,true,false,257,266,2
+1402,1396,"PS3 (Sony PlayStation 3)
+",,,,false,,,true,false,202,203,3
+1460,1324,Washing machine,,Стиральные машинки,Стиралки,false,,,true,false,222,223,3
+1436,1433,Dining tables and chairs,,Обеденные столы и стулья,Столы и стулья для обеда,false,,,true,false,328,329,3
+1439,1433,Paintings & photos,,Картины и фото,Картины и фото,false,,,true,false,334,335,3
+1328,1324,Irons,,,,false,,,true,false,220,221,3
+1330,1324,Other household appliances,,,,false,,,true,false,226,227,3
+1325,1317,Kitchen Appliances,,,,false,,,true,false,229,244,2
+1332,1331,TVs,,Плоские телевизоры,"LED, ЖК и плазменные ТВ",false,,,true,false,258,259,3
+1334,1331,Projectors,,Экран для просмотра проектора,Мультимедиа 3D видео проекторы,false,,,true,false,260,261,3
+1333,1331,Accessories for TV and video,,ТВ подставки,"Универсальные пульты, кабели",false,,,true,false,264,265,3
+1411,1410,Shoes,,"Туфли, ботинки, на каблуках и без",Женскую и мужскую обувь,false,,,true,false,4,5,3
+1418,1417,Other,,,,false,,,true,false,18,19,3
+3050,1360,Archos,,,,false,,,true,false,179,180,4
+1407,1396,"Xbox One
+",,,,false,,,true,false,206,207,3
+3047,1325,Owens,,,,false,,,true,false,232,233,3
+1442,1433,Armchairs and chairs,,Кожаные и текстильные кресла и стулья,Кожаные и текстильные кресла и стулья,false,,,true,false,340,341,3
+1424,1423,Tools,,,,false,,,true,false,373,374,2
+4273,1423,Houseplants,,,,false,1,,true,false,377,378,2
+1444,1443,Barbeques,,Шашлычницы,Мангалы и шампуры,false,,,true,false,346,347,3
+3166,1360,Globex,,,,false,,,true,false,149,150,4
+1456,1325,Microwave,,Микроволновые печи,Микроволновки,false,,,true,false,234,235,3
+2141,2109,Real Estate,,Риелтера,"Риелтером, в агентстве недвижимости",true,1,3,true,false,950,951,3
+2142,2109,Other Jobs,,В других специальностях,По другим специальностям,true,1,3,true,false,952,953,3
+3061,1423,Furniture to order,,,,false,,,true,false,375,376,2
+1426,1425,Bedside Tables,,Тумбы возле кровати,Тумбочки в спальню,false,,,true,false,310,311,3
+1427,1425,Double Beds,,Двухспальные кровати,Двухместные широкие кровати,false,,,true,false,308,309,3
+1447,1443,Hoses,,Шланги,Шланги,false,,,true,false,352,353,3
+1450,1443,Garden furniture,,Мебель для сада,Мебель для сада,false,,,true,false,358,359,3
+4272,1417,Cosmetics,,,,false,,,true,false,28,29,3
+1431,1425,"Wardrobes, Shelving & Storage",,Полки для спальни и гарнитуры,Шкафы в спальню,false,,,true,false,316,317,3
+1425,1423,Beds & Bedroom Furniture,,Кровати,Мебель для спальни,false,,,true,false,305,322,2
+1452,1423,Kitchen,,Бытовая техника и аксессуары для кухни,Аксессуары для кухни,false,,,true,false,367,372,2
+3165,1360,Gigabyte,,,,false,,,true,false,153,154,4
+3172,1360,Jiayu,,,,false,,,true,false,155,156,4
+3184,1360,Texet,,,,false,,,true,false,165,166,4
+3062,1360,Microsoft,,,,false,,,true,false,177,178,4
+1360,1357,Mobile Phones,,"Apple, iphone, htc, samsung",Смартфоны,false,,,true,false,78,183,3
+1357,1317,Mobile Phones and Accessories,,"Смартфоны, мобилки, iphone",Чехлы на телефоны,false,,,true,false,77,188,2
+1413,1410,Men's Clothing and Accessories,,Одежда для мужчин,Мужская одежда,false,,,true,false,8,9,3
+1399,1396,"Nintendo Wii
+",,,,false,,,true,false,192,193,3
+1319,1318,Speakers & sound systems,,"Звуковые системы, музыкальные центры",Стерео колонки,false,,,true,false,246,247,3
+1320,1318,iPod and MP3 Players,,мп3 плейеры,iPod и mp 3 плейеры,false,,,true,false,248,249,3
+1322,1318,Microphones,,Wi-fi и беспроводные микрофоны,Студийные и недорогие микрофоны,false,,,true,false,250,251,3
+1321,1318,Minidisc & Discman,,Компакт диск плееры,CD плееры,false,,,true,false,254,255,3
+1318,1317,Audio,,Audio техника,аудиотехнику,false,,,true,false,245,256,2
+2137,2109,Work abroad,,"За границей, в Европе, в России","За границей, в Европе, в России",true,1,3,true,false,942,943,3
+1317,1,Electronics,"Продажа мобильных телефонов, планшетов, ноутбуков, компьютеров, телевизоров - лучшие предложения электроники в Таджикистане",Электротовары,Электроника,true,,,true,false,32,267,1
+1403,1396,"PS4 (Sony Playstation 4)
+",,,,false,,,true,false,204,205,3
+2154,2143,Equipment repair,,,,true,1,,true,false,405,406,2
+1401,1396,"PS2 & PS1 (Sony PlayStation 2 & 1)
+",,,,false,,,true,false,200,201,3
+3055,1,7,,Обувь для новорожденных,"Ботинки, туфли для детей",false,,,true,false,1006,1007,1
+4274,1477,Skis and snowboards,,,,false,,,true,false,527,528,2
+1493,1491,Ferrets,,Хорьки,Хорек,false,,,true,false,974,975,3
+1517,1502,IZH,,,,false,,,true,false,548,549,3
+1542,1502,Changan,,,,false,,,true,false,598,599,3
+1612,1502,Other,,б/у Другие авто,Другие б/у авто с пробегом,false,,,true,false,738,739,3
+1494,1491,Guinea pigs,,,,false,,,true,false,976,977,3
+2144,2143,Household services,,,,true,1,,true,false,389,390,2
+1409,1,Personal Items,"Продажа б/у одежды, обуви, одежды для детей, товаров ручной работы в Таджикистане",Личные вещи,Личные вещи,true,,,true,false,2,31,1
+2150,2143,Visas,,,,false,1,,true,false,387,388,2
+2155,2143,Car and Transport,,,,true,1,,true,false,409,410,2
+2038,2037,For sale,,Участки земли,Купить землю,false,,,true,false,508,509,3
+3107,2075,Data Entry & Junior Admin,,,,false,,,true,false,884,885,3
+2048,2047,Wanted for sale,,,,false,,,true,false,480,481,3
+1551,1502,Aixam,,б/у Aixam,Aixam б/у с пробегом,false,,,true,false,616,617,3
+1587,1502,Microcar,,б/у Microcar,Microcar б/у с пробегом,false,,,true,false,688,689,3
+102,1502,Reliant,,,,false,,,true,false,780,781,3
+1477,1,Sport & hobby,"Продажа б/у велосипедов, гитар, книг, спорттоваров, музыкальных инструментов, предметов искусства в Таджикистане","Оборудование и устройства, спорттовары",Спорт товары для хобби,true,,,true,false,516,531,1
+1483,1477,Bicycles,,Скоростные велосипеды с мотором,"Детские, спортивные и горные велосипеды",true,,,true,false,529,530,2
+1620,1616,Car Parts,,Запчасти с разборок и магазинов для иномарок,Запчасти для авто: каталог и по заказу,false,,,true,false,792,793,3
+1396,1317,Video Games & Consoles,,Приставки для телевизора и компьютера,Приставки для игр,false,,,true,false,189,214,2
+1481,1477,"Books, magazines, CDs, DVDs",,Советские журналы,"Старые книги, CD",false,,,true,false,523,524,2
+2115,2109,Electricians & plumbers,,"Электрика, сантехника","Электрика, сантехника",true,1,3,true,false,898,899,3
+2050,2047,For sale,,Комната на продажу,Купить комнату,false,,,true,false,482,483,3
+2051,2047,For rent,,Комнаты в аренду,Снять комнату,false,,,true,false,486,491,3
+2097,2075,Electricians & plumbers,,,,false,,3,true,false,856,857,3
+2053,2051,By the day,,Арендовать комнату посуточно,Снять комнату посуточно,false,,,true,false,489,490,4
+1580,1502,Land Rover,,б/у Land Rover,Land Rover б/у с пробегом,false,,,true,false,674,675,3
+1329,1324,Vacuum cleaners,,,,false,,,true,false,224,225,3
+1574,1502,Jaguar,,б/у Jaguar,Jaguar б/у с пробегом,false,,,true,false,662,663,3
+1566,1502,Dodge,,б/у Dodge,Dodge б/у с пробегом,false,,,true,false,646,647,3
+89,1502,Microcar,,,,false,,,true,false,758,759,3
+1437,1433,Lighting & Fittings,,"Светильники, торшеры","Люстры, бра, лампы",false,,,true,false,330,331,3
+1438,1433,"Mirrors, clocks & decor",,"Декор квартиры и дома, товары для декора","Зеркала в гостиную и ванну, часы на кухню",false,,,true,false,332,333,3
+1441,1433,Other,,Другая мебель для гостиной,Другая мебель для гостиной,false,,,true,false,338,339,3
+1453,1452,Crockery,,,,false,,,true,false,368,369,3
+734,1433,Tableware,,,,false,,,true,false,342,343,3
+2124,2109,General Jobs,,Помощники,Подсобным работником,true,1,3,true,false,916,917,3
+1404,1396,"PSP (Sony PlayStation Portable)
+",,,,false,,,true,false,196,197,3
+1400,1396,"PS Vita (Sony Playstation Vita)
+",,,,false,,,true,false,198,199,3
+3060,1360,BenQ,,,,false,,,true,false,175,176,4
+1397,1396,"Nintendo 3DS
+",,,,false,,,true,false,190,191,3
+1590,1502,Nissan,,б/у Nissan,Nissan б/у с пробегом,false,,,true,false,694,695,3
+2122,2109,Education,,"В школе, университете, администрации, НИИ","В сфере образования и науки - учителем, преподавателем, научным сотрудником",true,1,3,true,false,912,913,3
+1525,1502,JMC,,,,false,,,true,false,564,565,3
+1532,1502,Great Wall,,,,false,,,true,false,578,579,3
+1473,1463,Toys,,Детские игрушки,Игрушки для детей,false,,,true,false,293,296,2
+2147,2143,Other services,,,,true,1,,true,false,397,398,2
+709,1472,Other,,Other baby furniture,Other children's furniture,false,,,true,false,286,287,3
+2139,2109,"Arts, entertainment",,"Художника, оформителя, дизайнера","Художником, оформителем, дизайнером",true,1,3,true,false,946,947,3
+2098,2075,Paralegal & Legal,,,,false,,3,true,false,858,859,3
+1498,1491,Rats,,Крысы,Крысы,false,,,true,false,984,985,3
+3088,2075,Tourism & Travel,,,,false,,,true,false,880,881,3
+3049,2143,Equipment for business,,,,false,,,true,false,417,418,2
+2157,2143,"Babysitter, Nanny",,,,true,1,,true,false,413,414,2
+2059,2055,Warehouses & Workshops,,Склады в продажу,Купить склад и мастерскую,false,,,true,false,431,432,4
+2060,2055,Hotels,,Отели и гостиницы,Купить гостиницу и отель,false,,,true,false,433,434,4
+2061,2055,Buildings,,Коммерческие здания на продажу,Купить офисное здание,false,,,true,false,435,436,4
+2068,2064,Offices,,Аренда офисов,"Арендовать, снять офис",false,,,true,false,449,450,4
+2078,2075,Other Jobs,,,,false,,3,true,false,818,819,3
+2146,2143,"Fashion, Health and Beauty",,,,true,1,,true,false,395,396,2
+2158,2143,"Building, Home & Removals",,,,true,1,,true,false,415,416,2
+2149,2143,"IT, Internet, Telekom",,,,true,1,,true,false,403,404,2
+2152,2143,Business services,,,,true,1,,true,false,401,402,2
+2145,2143,Entertainment,,,,true,1,,true,false,391,392,2
+2148,2143,Property services,,Услуги в сфере недвижимости,Услуги риелтера,true,1,,true,false,399,400,2
+2056,2055,Offices,,Офисы,Снять офис,false,,,true,false,425,426,4
+2064,2054,For rent,,Коммерческие здания,Снять коммерческую недвижимость,false,,,true,false,442,459,3
+1463,1,Children's Item,,Детские вещи,Вещи для детей,false,,,true,false,268,303,1
+3083,2109,Travel & Tours,,,,false,,,true,false,956,957,3
+2032,2030,For rent,,Дома в аренду,Снять дом,false,,,true,false,498,503,3
+1492,1491,Chinchilla,,Шиншиллы,Дегу,false,,,true,false,972,973,3
+1725,1501,"Trucks, commercial, agricultural",,"Коммерческая и сельскохозяйственная техника, транспорт","Автобусы, тракторы, пикапы",false,,,true,false,807,808,2
+2135,2109,Student & Graduate,,"Без опыта работы, студентам",Без опыта работы для студентов,true,1,3,true,false,938,939,3
+2136,2109,HR and Recruitment,,"Менеджера по работе с персоналом, рекрутера, HR менеджера","HR менеджером, менеджером по подбору персонала, рекрутером",true,1,3,true,false,940,941,3
+2151,2143,Tuition & Lessons,,,,true,1,,true,false,407,408,2
+2132,2109,Sales and Retail,,Руководитель и менеджер отдела по продажам,"Менеджером по продажам, продажником",true,1,3,true,false,932,933,3
+2140,2109,Customer service,,Менеджера по работе с клиентами,Менеджером по работе с клиентами,true,1,3,true,false,948,949,3
+2090,2075,"Hotels, Restaurants, Food",,,,false,,3,true,false,842,843,3
+3054,1,6,,,,false,,,true,false,1002,1003,1
+1529,1502,Huanghai,,,,false,,,true,false,572,573,3
+2123,2109,"Farm, Vet, Garden & Landscaping",,"Садовника, ветеринара","Садовником, ветеринаром",true,1,3,true,false,914,915,3
+2116,2109,Kitchen staff,,"Повара, помощника повара","Поваром, помощником повара",true,1,3,true,false,900,901,3
+3052,1423,Office furniture,,,,false,,,true,false,379,380,2
+2091,2075,"Farm, Vet, Garden & Landscaping",,,,false,,3,true,false,844,845,3
+1613,1502,Acura,,б/у Acura,Acura б/у с пробегом,false,,,true,false,740,741,3
+2030,2029,Houses,,Дома,Дома,false,,,true,false,493,506,2
+2102,2075,Student & Graduate,,,,false,,3,true,false,866,867,3
+2104,2075,Computing & IT,,,,false,,3,true,false,870,871,3
+4099,1502,Saipa,,,,true,,,true,false,770,771,3
+2042,2040,Wanted for sale,,,,false,,,true,false,464,465,3
+1500,1484,Farm animals,,Животные на ферму,Сельскохозяйственные животные,false,,,true,false,969,970,2
+1623,1616,Tools,,"Инструменты для машин, оборудование для диагностики авто",Оборудование для авто,false,,,true,false,798,799,3
+4149,2041,Gündəlik,,Mənzillərin gündəlik icarəsi,Gündəlik mənzili kirayələmək,false,,,true,false,475,476,4
+2099,2075,"Media, Design & Creative",,,,false,,3,true,false,860,861,3
+2103,2075,"Secretarial, PAs & Admin",,,,false,,3,true,false,868,869,3
+2083,2075,Education,,,,false,,3,true,false,828,829,3
+1604,1502,Ssangyong,,б/у Ssangyong,Ssangyong б/у с пробегом,false,,,true,false,722,723,3
+1527,1502,Iveco,,,,false,,,true,false,568,569,3
+2084,2075,Security,,,,false,,3,true,false,830,831,3
+1478,1477,Tickets and travel,,Билеты на футбольные матчи,"Билеты на концерт, в театр, в цирк",false,,,true,false,517,518,2
+1524,1502,LDV,,,,false,,,true,false,562,563,3
+2035,2030,Wanted for sale,,,,false,,,true,false,496,497,3
+1486,1484,Birds,,Домашняя птица,"Попугаев, домашних птиц, уток, кур, голубей",false,,,true,false,991,992,2
+1480,1477,Art and Collectibles,,"Постеры, сувениры, предметы искусства","Антиквариат, картины, монеты, марки",false,,,true,false,521,522,2
+4004,1616,Motosiklet hissələri,,,,true,,,true,false,802,803,3
+2117,2109,Computing & IT,,"Программиста, сетевого администратора, разработчика","Программиста, сетевого администратора, разработчика",true,1,3,true,false,902,903,3
+1618,1616,In-Car Audio & GPS,,Аудио системы для машины и GPS навигация,Аудио для авто и GPS трекеры ,false,,,true,false,788,789,3
+1488,1484,Dogs,,Породы собак,Щенки,false,,,true,false,965,966,2
+1583,1502,Maserati,,б/у Maserati,Maserati б/у с пробегом,false,,,true,false,680,681,3
+2107,2075,Construction,,,,false,,3,true,false,876,877,3
+2075,2074,"Resumes, CVs",,,,false,,3,true,false,813,886,2
+2125,2109,Beauty salons,,"Уход за волосами, ногтями, лицом","Парикмахером, стилистом, визажистом",true,1,3,true,false,918,919,3
+2039,2037,For lease,,Земельные участки в аренду,Арендовать земельный участок,false,,,true,false,510,511,3
+1606,1502,Suzuki,,б/у Suzuki,Suzuki б/у с пробегом,false,,,true,false,726,727,3
+1497,1491,Rabbits,,Кролики,Кролик,false,,,true,false,982,983,3
+2109,2074,Vacancy,,,,false,,3,true,false,887,958,2
+1496,1491,Mouse,,Мышь,Мышки,false,,,true,false,980,981,3
+2129,2109,"Marketing, Advertising & PR",,"Менеджер по маркетингу, специалист по рекламе, PR","Маркетологом, пиарщиком, рекламистом",true,1,3,true,false,926,927,3
+1553,1502,Alfa Romeo,,б/у Alfa Romeo,Alfa Romeo б/у с пробегом,false,,,true,false,620,621,3
+1521,1502,Oldsmobile,,,,false,,,true,false,556,557,3
+2079,2075,Home staff,,,,false,,3,true,false,820,821,3
+1584,1502,Mazda,,б/у Mazda,Mazda б/у с пробегом,false,,,true,false,682,683,3
+1544,1502,Buick,,,,false,,,true,false,602,603,3
+2120,2109,Stomatology,,"Стоматолога, протезиста, зубного техника","Стоматолога, протезиста, зубного техника",true,1,3,true,false,908,909,3
+1556,1502,Bentley,,б/у Bentley,Bentley б/у с пробегом,false,,,true,false,626,627,3
+1537,1502,Dongfeng,,,,false,,,true,false,588,589,3
+1513,1502,TagAZ,,,,false,,,true,false,540,541,3
+2036,2030,Wanted to rent,,,,false,,,true,false,504,505,3
+1568,1502,Fiat,,б/у Fiat,Fiat б/у с пробегом,false,,,true,false,650,651,3
+2121,2109,Driving & Warehouse,,"Складского работника, водителя, шофера","Водителем, шофером, на складе",true,1,3,true,false,910,911,3
+97,1502,Perodua,,,,false,,,true,false,760,761,3
+2143,1,Services,"Услуги няни, водителя, сантехника, разблокировка мобильных телефонов, ремонт компьютеров, наращивание волос, маникюр в Таджикистане",Услуги,Услуги,false,1,,true,false,386,421,1
+2093,2075,Stomatology,,,,false,,3,true,false,848,849,3
+3053,1423,Bathroom,,,,false,,,true,false,381,382,2
+1491,1484,Rodents,,Маленькие пушистые грызуны,"Шиншиллы, хомячки, кролики",false,,,true,false,971,988,2
+2138,2109,Volunteer & Charity Work,,Волонтера в общественной благотворительной организации,"Волонтером, в общественной благотворительной организации",true,1,3,true,false,944,945,3
+2094,2075,Construction,,,,false,,3,true,false,850,851,3
+1487,1484,Cats,,Породы кошек,Котята,false,,,true,false,963,964,2
+2161,1,Other,"Уроки, события, музыкальные группы, билеты в Таджикистане",Другие товары,Другие товары,false,,,true,false,1000,1001,1
+2076,2075,Work at home,,,,false,,3,true,false,814,815,3
+2077,2075,"Arts, entertainment, publishing",,,,false,,3,true,false,816,817,3
+1619,1616,Tuning & Styling,,Тюнинг авто,Tuning машин,false,,,true,false,790,791,3
+1569,1502,Ford,,б/у Ford,Ford б/у с пробегом,false,,,true,false,652,653,3
+2131,2109,Paralegal & Legal,,"Юрист, адвокат","Юристом, юрисконсультом, адвокатом",true,1,3,true,false,930,931,3
+2031,2030,For sale,,Продажа домов,Купить дом,false,,,true,false,494,495,3
+2037,2029,Land plots,,Участки земли,Земля,false,,,true,false,507,512,2
+1559,1502,Chevrolet,,б/у Chevrolet,Chevrolet б/у с пробегом,false,,,true,false,632,633,3
+1581,1502,Lexus,,б/у Lexus,Lexus б/у с пробегом,false,,,true,false,676,677,3
+1482,1477,Musicial instruments,,"Фортепиано, синтезатор, флейта","Гитару, пианино, аккордеон",false,,,true,false,525,526,2
+1505,1502,Vortex,,,,false,,,true,false,750,751,3
+1519,1502,Pontiac,,,,false,,,true,false,552,553,3
+1589,1502,Mitsubishi,,б/у Mitsubishi,Mitsubishi б/у с пробегом,false,,,true,false,692,693,3
+2092,2075,Beauty & Health,,,,false,,3,true,false,846,847,3
+2105,2075,HR and Recruitment,,,,false,,3,true,false,872,873,3
+1565,1502,Daimler,,б/у Daimler,Daimler б/у с пробегом,false,,,true,false,644,645,3
+1602,1502,Skoda,,б/у Skoda,Skoda б/у с пробегом,false,,,true,false,718,719,3
+2111,2109,Accounting,,Бухгалтера и финансиста,Бухгалтера и финансиста,true,1,3,true,false,890,891,3
+2065,2064,Warehouses & Workshops,,Склады,"Снять, арендовать склад",false,,,true,false,443,444,4
+2066,2064,Shops,,Аренда киосков,"Снять, арендовать магазин",false,,,true,false,445,446,4
+2067,2064,"Restaurants, cafes",,Кафе и рестораны,"Снять ресторан, кафе в аренду",false,,,true,false,447,448,4
+1592,1502,Perodua,,б/у Perodua,Perodua б/у с пробегом,false,,,true,false,698,699,3
+3063,2143,Financial and legal,,,,true,,,true,false,419,420,2
+1615,1502,Mercury,,б/у Mercury,Mercury б/у с пробегом,false,,,true,false,744,745,3
+1535,1502,FAW,,,,false,,,true,false,584,585,3
+2082,2075,Property jobs,,,,false,,3,true,false,826,827,3
+1598,1502,Rolls Royce,,б/у Rolls Royce,Rolls Royce б/у с пробегом,false,,,true,false,710,711,3
+1600,1502,Saab,,б/у Saab,Saab б/у с пробегом,false,,,true,false,714,715,3
+3094,2075,Automotive & Engineering,,,,false,,,true,false,882,883,3
+1539,1502,Datsun,,,,false,,,true,false,592,593,3
+1534,1502,Geely,,,,false,,,true,false,582,583,3
+1523,1502,LIFAN,,,,false,,,true,false,560,561,3
+1594,1502,Porsche,,б/у Porsche,Porsche б/у с пробегом,false,,,true,false,702,703,3
+3199,1,Отдых на Иссык-Куле,,,,false,,,true,false,994,995,1
+1573,1502,Isuzu,,б/у Isuzu,Isuzu б/у с пробегом,false,,,true,false,660,661,3
+1514,1502,RAF,,,,false,,,true,false,542,543,3
+1549,1502,Scion,,,,false,,,true,false,612,613,3
+1512,1502,UAZ,,,,false,,,true,false,538,539,3
+1548,1502,Aro,,,,false,,,true,false,610,611,3
+1605,1502,Subaru,,б/у Subaru,Subaru б/у с пробегом,false,,,true,false,724,725,3
+2029,1,Property,"Продажа и аренда квартир, домов, коттеджей, квартиры посуточно, аренда офисов и магазинов в Таджикистане",Жилая и коммерческая недвижимость,Продажа и аренда недвижимости,true,,,true,false,422,515,1
+2088,2075,Customer service,,,,false,,3,true,false,838,839,3
+1508,1502,GAZ,,,,false,,,true,false,756,757,3
+3086,2109,Data Entry & Junior Admin,,,,false,,,true,false,954,955,3
+1510,1502,AC,,,,false,,,true,false,536,537,3
+1617,1616,Accessories,,Аксесуары для авто,Авто аксессуары,false,,,true,false,786,787,3
+2156,2143,Food and Catering,,,,true,1,,true,false,411,412,2
+1530,1502,Haima,,,,false,,,true,false,574,575,3
+1515,1502,Moskvich,,,,false,,,true,false,544,545,3
+2047,2029,Rooms,,Комнаты,Комнаты,false,,,true,false,479,492,2
+1526,1502,JAC,,,,false,,,true,false,566,567,3
+1577,1502,VAZ (LADA),,б/у Lada,Lada б/у с пробегом,false,,,true,false,668,669,3
+2049,2047,Wanted to rent,,,,false,,,true,false,484,485,3
+2052,2051,For long term,,Арендовать комнату,Снять комнату долгосрочно,false,,,true,false,487,488,4
+2080,2075,"Marketing, Advertising & PR",,,,false,,3,true,false,822,823,3
+2095,2075,Housekeeping & Cleaning,,,,false,,3,true,false,852,853,3
+1578,1502,Lamborghini,,б/у Lamborghini,Lamborghini б/у с пробегом,false,,,true,false,670,671,3
+2081,2075,Healthcare Jobs,,,,false,,3,true,false,824,825,3
+2101,2075,Driving & Warehouse,,,,false,,3,true,false,864,865,3
+2073,2029,Garages,"Покупка, продажа и аренда гаражей",,,false,,,true,false,513,514,2
+1541,1502,Chery,,,,false,,,true,false,596,597,3
+1572,1502,Hyundai,,б/у Hyundai,Hyundai б/у с пробегом,false,,,true,false,658,659,3
+1520,1502,Plymouth,,,,false,,,true,false,554,555,3
+1518,1502,Rolls-Royce,,,,false,,,true,false,550,551,3
+2318,1502,Dadi,,,,true,,,true,false,766,767,3
+1603,1502,Smart,,б/у Smart,Smart б/у с пробегом,false,,,true,false,720,721,3
+3057,1,9,,Другая детская одежда и обувь,Другая одежда и обувь для детей,false,,,true,false,1010,1011,1
+1503,1502,ZIL,,,,false,,,true,false,746,747,3
+1547,1502,Asia,,,,false,,,true,false,608,609,3
+28,1502,Aixam,,,,false,,,true,false,764,765,3
+2106,2075,Banking & Insurance,,,,false,,3,true,false,874,875,3
+1595,1502,Proton,,б/у Proton,Proton б/у с пробегом,false,,,true,false,704,705,3
+2118,2109,Construction,,"Строителя, прораба","Строителем, прорабом",true,1,3,true,false,904,905,3
+1479,1477,Sports and Leisure,,Тренажеры для фитнеса,Товары для спорта и фитнеса,false,,,true,false,519,520,2
+1571,1502,Hummer,,б/у Hummer,Hummer б/у с пробегом,false,,,true,false,656,657,3
+2108,2075,Accounting,,,,true,,3,true,false,878,879,3
+2054,2029,Commercial property,,Коммерческие здания,Коммерческая недвижимость,false,,,true,false,423,460,2
+2046,2040,For sale,,Квартиры на продажу,Купить квартиру,true,,,true,false,462,463,3
+2044,2043,For long term,,Долгосрочная аренда квартир,Снять квартиру на долгий срок,false,,,true,false,467,468,4
+2045,2043,By the day,,Посуточная аренда квартир,Снять квартиру посуточно,false,,,true,false,469,470,4
+2043,2040,For rent,,Квартиры в аренду,Снять квартиру,false,,,true,false,466,471,3
+4148,2041,Uzunmüddətli,,Mənzillərdən uzunmüddətli icarəyə,Mənzil kirayələmək uzun müddətə,false,,,true,false,473,474,4
+1522,1502,Lincoln,,,,false,,,true,false,558,559,3
+2041,2040,Wanted to rent,,,,false,,,true,false,472,477,3
+1,,root,,,,false,,,true,false,1,1014,0
+2040,2029,Apartments,,Апартаменты,Квартиры от частных лиц и риелтеров,false,,,true,false,461,478,2
