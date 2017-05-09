@@ -101,4 +101,18 @@ tree = functions.make_tree(data['categories'])
 top_pred = functions.top_predictions(tree, count)
 ```
 
+Result:
+```
+[{
+    'categoryId': 2066, 
+    'score': 29.8
+}, {
+    'categoryId': 2157, 
+    'score': 9.7
+}, {
+    'categoryId': 2125, 
+    'score': 16.1
+}]
+```
+
 see parse_json.py
