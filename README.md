@@ -78,6 +78,7 @@ there is debugging UI at http://podol.videogorillas.com:4244/
 ## Python functions to test the API
 
 Parse json output from lalafoAPI
+
 Output N deepest categories with maximum score on each intermediate node
 
 Usage:
