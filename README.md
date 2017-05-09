@@ -74,3 +74,30 @@ as a result you will the JSON in such format:
 there is debugging UI at http://podol.videogorillas.com:4244/ 
 
 ![Image of screen](images/screen.jpg)
+
+## Python functions to test the API
+
+Parse json output from lalafoAPI
+Output N deepest categories with maximum score on each intermediate node
+
+Usage:
+- either get json data from file
+```
+data = json.load(open('file.json', 'rb'))
+```
+- or get json data from API
+```
+api_url = 'http://podol.videogorillas.com:4244/upload'
+files = {'file': open('file.jpg', 'rb')}
+r = requests.post(api_url, files=files)
+data = r.text
+```
+now make the tree and get top predictions
+```
+import functions
+count = 2
+tree = functions.make_tree(data['categories'])
+top_pred = functions.top_predictions(tree, count)
+```
+
+see parse_json.py

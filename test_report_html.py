@@ -2,55 +2,25 @@ import json
 import os
 import shutil
 from PIL import Image
+import functions
+import re
 
 
-def make_tree(data):
-    categories = data['categories']
+act = functions.all_cats_tree
+for c in act:
+    act[c]['title'] = re.sub(r'\d+_', '', act[c]['title']).strip()
 
-    tree = {}
+# bad image/prediction results
+with open('validation_results/bad.txt', 'rb') as f:
+    bad = f.readlines()
+bad = map(lambda x: x.strip(), bad)
 
-    for c in categories:
-        path = c['desc'][6:].split('/')
-        cur = tree
-        for p in path:
-            if p not in cur:
-                cur[p] = {}
-            cur = cur[p]
+th_size = 150, 100
 
-        cur['attr'] = c
-    return tree
-
-
-def max_cat(tree, count):
-    res = []
-    for node in tree:
-        n = tree[node]
-        if node != 'attr' and 'attr' in n:
-            res.append({'score': n['attr']['score'], 'node': node, 'desc': n['attr']['desc']})
-
-    if len(res) == 0 and 'attr' in tree:
-        a = tree['attr']
-        return {'score': a['score'], 'desc': a['desc'], 'categoryId': a['categoryId']}
-
-    res.sort(key=lambda k: -k['score'])
-    res = res[0: count]
-    result = []
-    for r in res:
-        m = max_cat(tree[r['node']], 1)
-        if isinstance(m, list):
-            result.append(m[0])
-        else:
-            result.append(m)
-    return result
-
-
-th_size = 100, 100
-
-cats = {'2094': {'title': 'Job/Resumes CVs/Construction', 'parent_id': 2075},
-        '1467': {'title': 'Children s Item/Kids clothes shoes/Jeans Trousers', 'parent_id': 1463},
-        '1614': {'title': 'Vehicles/Used cars/Infiniti', 'parent_id': 1502}}
-
-summary = {'red': 0, 'yellow': 0, 'green': 0, 'blue': 0}
+summary = {'red': {'count': 0, 'html': ''},
+           'yellow': {'count': 0, 'html': ''},
+           'green': {'count': 0, 'html': ''},
+           'blue': {'count': 0, 'html': ''}}
 
 files = [os.path.join(dp, f)
          for dp, dn, filenames in os.walk('validation')
@@ -62,15 +32,7 @@ try:
 except:
     pass
 
-html = '<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>' + \
-        '<script src="jquery.lazyload.js"></script>' + \
-       '<script src="js.js"></script>' + \
-       '<style>body{font-size:10px}' + \
-       'img{border:0;}td{padding:5px;border:#ccc 1px solid;font-size:10px}' + \
-       'table{border-collapse:collapse}</style>'
-html += '<table>'
-html += '<tr><th>ID</th><th>Image</th><th>Orig Cat</th><th>Pred Cats</th></tr>'
-
+n = 0
 for i, fn in enumerate(files):
     id = os.path.basename(fn)
     jsf = 'validation/jsons/' + id.split('.')[0] + '.json'
@@ -82,13 +44,14 @@ for i, fn in enumerate(files):
     except:
         continue
 
-    tree = make_tree(data)
-    pred_cats = max_cat(tree, 2)
-    print(pred_cats)
-    first_cat = pred_cats[0]
+    # predicted categories
+    tree = functions.make_tree(data['categories'])
+    top_predictions = functions.top_predictions(tree, 3)
+    main_pred_cat_id = str(top_predictions[0]['categoryId'])
 
-    d = 'validation_results/' + str(first_cat['categoryId']) + '_'
-    d += '_'.join(first_cat['desc'].split('/')[1:]) + '/'
+    # make dirs
+    d = 'validation_results/'
+    d += '_'.join(act[main_pred_cat_id]['title'].split('/')[1:]) + '/'
     if not os.path.isdir(d):
         os.makedirs(d)
 
@@ -106,45 +69,93 @@ for i, fn in enumerate(files):
         im.save(thf, "JPEG")
 
     # ground true
-    orig_cat = os.path.dirname(fn).split('/')[-1]
+    true_category_id = os.path.dirname(fn).split('/')[-1]
+    true_parent_id = act[true_category_id]['path'].split('/')[-2]
 
-    s = []
+    # short report
+    short = ''
+    for c in top_predictions:
+        cid = str(c['categoryId'])
+        d = act[cid]['title']
+        l = functions.longest_head(d, act[true_category_id]['title'])
+        d = d.replace(l, '<span class="hl">' + l + '</span>')
+        short += \
+            '<tr><td>%s</td><td>%s</td><td>%.02f</td><td><div class="b" style="width:%dpx"</td></tr>' % \
+            (cid, d, c['score'], 200 * c['score'] / 100)
+
+    # full report
+    full = ''
+
+    # initially
     color = 'red'
-    for j, c in enumerate(data['categories']):
-        if c['categoryId'] == int(orig_cat):
-            color = 'yellow'
-        if j == 0:
-            s.append('<strong>' + str(c['categoryId']) + ' ' + c['desc'] + '</strong>')
-        else:
-            s.append(str(c['categoryId']) + ' ' + c['desc'])
 
-    parent = "/".join(first_cat['desc'].split('/')[:-1])
-    parent_id = 0
     for c in data['categories']:
-        if c['desc'] == parent:
-            parent_id = c['categoryId']
+        cid = str(c['categoryId'])
 
-    if int(parent_id) == cats[orig_cat]['parent_id']:
+        # if true category id is among all predictions
+        if cid == true_category_id:
+            color = 'yellow'
+
+        d = act[cid]['title']
+        l = functions.longest_head(d, act[true_category_id]['title'])
+        d = d.replace(l, '<span class="hl">' + l + '</span>')
+
+        if cid == true_category_id:
+            d = '<strong>' + d + '</strong>'
+
+        full += \
+            '<tr><td>%s</td><td>%s</td><td>%.02f</td><td><div class="b" style="width:%dpx"</td></tr>' % \
+            (cid, d, c['score'], 200 * c['score'] / 100)
+
+    pred_parent_id = act[main_pred_cat_id]['path'].split('/')[-2]
+    if true_parent_id == pred_parent_id:
         color = 'blue'
 
-    if first_cat['categoryId'] == int(orig_cat):
+    if true_category_id == main_pred_cat_id:
         color = 'green'
 
-    summary[color] += 1
+    summary[color]['count'] += 1
 
-    if color == 'red':
-        html += '<tr><td>' + id + '</td>' + \
-                '<td style="background:' + color + '">' + \
-                '<a href="../' + cf + '" target="_blank">' + '<img data-original="thumbs/' + id + '"></a></td>' + \
-                '<td>' + orig_cat + ' ' + cats[orig_cat]['title'] + '</td>' + \
-                '<td>' + '<br>'.join(s) + '</td></tr>'
+    summary[color]['html'] += \
+        '<tr><td>' + id + ' <input type="checkbox" ' + ('checked' if id in bad else '') + '/></td>' + \
+        '<td style="background:' + color + '">' + \
+        '<a href="../' + cf + '" target="_blank">' + '<img data-original="thumbs/' + id + '"></a></td>' + \
+        '<td class="true">' + true_category_id + ' ' + act[true_category_id]['title'] + '</td>' + \
+        '<td><table>' + short + '</table>' + \
+        '<button class="b-full">Toggle full</button>' + \
+        '<table class="full">' + full + '</table>' + \
+        '</td></tr>'
 
-html += '</table>'
+    n += 1
 
-html += '<table>'
-for color, count in summary.iteritems():
-    html += '<tr><td>' + color + '</td><td>' + str(count) + '</td></tr>'
-html += '</table>'
+colors_tbl = ''
+for color in summary:
+    c = summary[color]
+    colors_tbl += '<tr><td>%s</td><td>%d</td><td>%.02f</td></tr>' % (color, c['count'], 100 * c['count'] / n)
 
-with open('validation_results/report.html', 'w') as f:
-    f.write(html)
+for color in summary:
+    c = summary[color]
+
+    html = \
+        '<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>' + \
+        '<script src="jquery.lazyload.js"></script>' + \
+        '<script src="js.js"></script>' + \
+        '<style>' + \
+        'body{font-size:10px}' + \
+        'img{border:0;margin:0 auto;display:block}' + \
+        'td{padding:3px 5px;border:#ccc 1px solid;font-size:10px}' + \
+        'table{border-collapse:collapse}' + \
+        '.true,.full{display:none}' + \
+        '.hl{color:red;font-weight:bolder}' + \
+        '.b{background-color:green;height:15px;font-size:15px;}' + \
+        '</style>'
+    html += '<table>' + colors_tbl + '</table>'
+    html += '<button id="b-true">Toggle True</button>'
+    html += '<table>'
+    html += '<tr><th>ID</th><th>Image</th><th class="true">True Cat</th><th>Pred Cats</th></tr>'
+    html += summary[color]['html']
+    html += '</table>'
+    html += '<div class="checked"></div>'
+
+    with open('validation_results/report_' + color + '.html', 'w') as f:
+        f.write(html)
